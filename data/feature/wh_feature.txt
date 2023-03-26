@@ -1,0 +1,6 @@
+create_date_month
+wm_start_date_month
+n_rec_total
+n_rec_normal
+n_num_change
+jcd_nl_mode
